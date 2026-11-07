@@ -139,3 +139,7 @@ No. CorelDRAW for Mac has no VBA. Use the Windows version for the export and imp
 
 **What if the translator returns XLIFF 2.0?**
 Only XLIFF 1.2 is supported. Most tools can export 1.2 if you set the format when you create the project.
+
+## Support
+
+Questions, problems or ideas: use the [Supertext support form](https://integrations.supertext.com/en/support?platform=coreldraw). Mention the version of CorelDRAW and of the plugin, what you did and what you expected; an error message helps a lot. You get an answer by email, in your language.
